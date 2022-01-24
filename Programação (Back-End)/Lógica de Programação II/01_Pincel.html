@@ -1,0 +1,52 @@
+<canvas width="600" height="400"></canvas>
+
+<script>
+
+    var tela = document.querySelector("canvas");
+    var pincel = tela.getContext('2d');
+
+    // RETÂNGULO
+    pincel.fillStyle = 'lightgrey'; // o fillStyle deve vir antes do fillRect, caso contrário ele não pegará a cor
+    pincel.fillRect(0, 0, 800, 600);
+
+    pincel.fillStyle = 'green';
+    pincel.fillRect(0, 0, 200, 400);
+
+    pincel.fillStyle = 'red';
+    pincel.fillRect(400, 0, 200, 400);
+
+    // TRIÂNGULO
+    pincel.fillStyle = 'yellow';
+    pincel.beginPath(); // // pincel.beginPath() para dizermos qual será a direção do novo caminho que será seguida por nosso pincel.
+    pincel.moveTo(300, 200);
+    pincel.lineTo(200, 400);
+    pincel.lineTo(400, 400);
+    pincel.fill();
+
+    // CÍRCULO
+    pincel.fillStyle = 'blue';
+    pincel.beginPath();
+    pincel.arc(300, 200, 50, 0, 2 * 3.14);
+    pincel.fill();
+
+</script>
+
+<!--
+    No mundo da programação podemos ter gráficos em 2D, 3D, 4D, 
+    enfim, portanto, precisamos informar à tela qual o tipo de pincel, 
+    ou seja, o contexto no qual escreveremos na tela. 
+    Para isso, utilizaremos o getContext() e passaremos o 2d como parâmetro.
+-->
+
+<!--
+    o fillStyle não é uma função, e sim o que chamamos de propriedade. 
+    É equivalente a uma variável, por receber um valor, que é a cor.
+-->
+
+<!--
+    O fillRect() precisa de algumas informações para conseguir desenhar o retângulo, que estarão na ordem: 
+    posição inicial X do “pincel”, 
+    posição inicial Y do “pincel”, 
+    posição final X do “pincel”, 
+    posição final Y do “pincel”.
+-->

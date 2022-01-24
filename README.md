@@ -3,8 +3,8 @@
 |                                   Curso                                    | Carga Horária | Módulo              | Semana | Conclusão |
 | -------------------------------------------------------------------------- | ------------- | ------------------- | ------ | --------- |
 | Lógica de programação I: Os primeiros programas com Javascript e HTML      | 16            | Inicial             | 1      | ✅        |
-| Lógica de programação II: pratique com desenhos, animações e um jogo       | 10            | Inicial             | 2      |           |
-| Arquitetura de computadores: Por trás de como seu programa funciona        | 8             | Inicial             | 2      |           |
+| Lógica de programação II: pratique com desenhos, animações e um jogo       | 10            | Inicial             | 2      | ✅        |
+| Arquitetura de computadores: Por trás de como seu programa funciona        | 8             | Inicial             | 2      | ✅        |
 | Scratch: Programando seu jogo 2d Parte 1                                   | 6             | Inicial             | 3      |           |
 | Jogos clássicos parte 1: Iniciando no Javascript com Pong                  | 6             | Inicial             | 3      |           |
 | Jogos clássicos parte 2: laços e listas com Javascript                     | 4             | Inicial             | 3      |           |
