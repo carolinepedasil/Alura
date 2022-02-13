@@ -8,8 +8,8 @@
 | Scratch: Programando seu jogo 2d Parte 1                                   | 6             | Inicial             | 3      | ✅        |
 | Jogos clássicos parte 1: Iniciando no Javascript com Pong                  | 6             | Inicial             | 3      | ✅        |
 | Jogos clássicos parte 2: laços e listas com Javascript                     | 4             | Inicial             | 3      | ✅        |
-| HTML5 e CSS3 parte 1: A primeira página da Web                             | 8             | Inicial             | 4      |           |
-| HTML5 e CSS3 parte 2: Posicionamento, listas e navegação                   | 8             | Inicial             | 4      |           |
+| HTML5 e CSS3 parte 1: A primeira página da Web                             | 8             | Inicial             | 4      | ✅        |
+| HTML5 e CSS3 parte 2: Posicionamento, listas e navegação                   | 8             | Inicial             | 4      | ✅        |
 | HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas                | 8             | Inicial             | 5      |           |
 | HTML5 e CSS3 parte 4: Avançando no CSS                                     | 8             | Inicial             | 5      |           |
 | LGPD: Conhecendo e entendendo seus impactos                                | 10            | Inicial             | 5      |           |
