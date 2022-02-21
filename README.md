@@ -93,3 +93,11 @@
 | OWASP: Padrão de verificação de segurança de aplicações                    | 6             | Opcional: Segurança | 39     |           |
 | OWASP: Padrão de verificação de segurança de aplicações V5 a V8            | 7             | Opcional: Segurança | 39     |           |
 | OWASP: Padrão de verificação de segurança de aplicações V9 a V14           | 7             | Opcional: Segurança | 39     |           |
+
+<br>
+
+<div align="center">
+  
+  ![PlanoDeEstudos](https://user-images.githubusercontent.com/86432393/154871232-efd0a0a9-1e73-4381-b1fe-1ea60a974285.png)
+
+</div>
