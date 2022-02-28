@@ -13,9 +13,9 @@
 | HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas                | 8             | Inicial             | 5      | ✅        |
 | HTML5 e CSS3 parte 4: Avançando no CSS                                     | 8             | Inicial             | 5      | ✅        |
 | LGPD: Conhecendo e entendendo seus impactos                                | 10            | Inicial             | 5      | ✅        |
-| Git e Github: Controle e compartilhe seu código                            | 6             | Inicial             | 6      |           |
-| VSCode: Dicas e truque                                                     | 0,5           | Inicial             | 6      |           |
-| Layouts Responsivos: Trabalhando com layouts mobile                        | 7             | Inicial             | 6      |           |
+| Git e Github: Controle e compartilhe seu código                            | 6             | Inicial             | 6      | ✅        |
+| VSCode: Dicas e truque                                                     | 0,5           | Inicial             | 6      | ✅        |
+| Layouts Responsivos: Trabalhando com layouts mobile                        | 7             | Inicial             | 6      | ✅        |
 | JS na Web: Manipule o DOM com JavaScript                                   | 6             | Inicial             | 6      |           |
 | JavaScript na Web: Validação de Formulários e HTML5                        | 8             | Inicial             | 7      |           |
 | JS na Web: Armazenando dados no navegador                                  | 8             | Inicial             | 7      |           |
