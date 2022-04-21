@@ -19,7 +19,7 @@
 | JS na Web: Manipule o DOM com JavaScript                                   | 6h            | Inicial             | 6      | ✅        |
 | Fundamentos do JavaScript: Tipos, variáveis e funções                      | 12h           | Inicial             | 7      | ✅        |
 | Fundamentos do JavaScript: Arrays                                          | 10h           | Inicial             | 7      | ✅        |
-| Fundamentos do JavaScript: objetos                                         | 10h           | Inicial             | 8      |           |
+| Fundamentos do JavaScript: objetos                                         | 10h           | Inicial             | 8      | ✅        |
 | Introdução ao SQL com MySQL: manipule e consulte dados                     | 12h           | Inicial             | 8      |           |
 | HTTP: Entendendo a web por baixo dos panos                                 | 14h           | Inicial             | 9      |           |
 | Rest com NodeJS: API com Express e MySQL                                   | 8h            | Inicial             | 9      |           |
